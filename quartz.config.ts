@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wanda Brocks Tagebuch",
-    pageTitleSuffix: "Tagebuch eines Abenteuers",
+    pageTitleSuffix: " Tagebuch eines Abenteuers",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
