@@ -9,3 +9,13 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+#folders
+content/
+private
+content/templates
+content/.obsidian
+content/Sterling Swanson
+content/z_Templates
+content/Charaktere/Investigators/Wanda*
+content/Abenteuertagebuch/Szenarios

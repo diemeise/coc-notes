@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Wanda Brocks Tagebuch",
+    pageTitleSuffix: "Tagebuch eines Abenteuers",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "wanda.callofuwu.de",
+    ignorePatterns: ["private", "templates", ".obsidian", "Sterling Swanson", "z_Templates", "Charaktere/Investigators/Wanda*", "Abenteuertagebuch/Szenarios"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
