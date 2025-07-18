@@ -1,0 +1,1 @@
+Ist Chemiker und Erfinder dessen beiden Frauen vor Jahren gestorben sind
